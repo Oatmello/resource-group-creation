@@ -18,8 +18,8 @@ Let's name this resource group ADLab. You can choose whatever region works best 
 
 <!--azure7--><img src="https://raw.githubusercontent.com/Oatmello/Markdowns/main/AD-Aure-Images/azure7.png" /> <br>
 
+You will see if the resource group was validated or not. In this case it was for me. 
+<!--azure9--><img src="https://raw.githubusercontent.com/Oatmello/Markdowns/main/AD-Aure-Images/azure%209.png" /> <br>
+
 Once it has been validated, click on the **Create** button to complete the resource group creation process. Which should lead you to the screen below.
-
-<!--azure9--><img src="https://raw.githubusercontent.com/Oatmello/Markdowns/main/AD-Aure-Images/azure9.png" /> <br>
-
 <!--azure8--><img src="https://raw.githubusercontent.com/Oatmello/Markdowns/main/AD-Aure-Images/azure8.png" /> <br>
